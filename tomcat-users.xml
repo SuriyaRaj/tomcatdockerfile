@@ -26,10 +26,10 @@
   <user username="role1" password="<must-be-changed>" roles="role1"/>
 -->
 <role rolename="admin-gui"/>
-<user username="anoop" password="anoop" roles="admin-gui"/>
+<user username="Hajira" password="Hajira" roles="admin-gui"/>
 
 <role rolename="manager-gui"/>
-<user username="anoop1" password="anoop1" roles="manager-gui"/>
+<user username="Hajira1" password="Hajira1" roles="manager-gui"/>
 
 
 <role rolename="manager-script"/>
